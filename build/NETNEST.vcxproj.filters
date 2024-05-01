@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\_0_DEV_SOFTWARE\mySANDBOX\netnest\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\_0_DEV_SOFTWARE\mySANDBOX\netnest\src\core\nethttp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\_0_DEV_SOFTWARE\mySANDBOX\netnest\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{463B62E5-8627-333A-93C0-2529F567C1B1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

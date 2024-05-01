@@ -1,0 +1,38 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${default}",
+                "${workspaceFolder}/src/core/include",
+                "${workspaceFolder}/build/_deps/fmt-src/include",
+                "D:/esp-idf/components/",
+                "D:/esp-idf/components/freertos/FreeRTOS-Kernel/include/freertos/",
+                "D:/esp-idf/components/esp_http_server/include",
+                "D:/esp-idf/components/freertos/FreeRTOS-Kernel-SMP/include",
+                "D:/esp-idf/components/freertos/config/include/freertos",
+                "D:/esp-idf/components/esp_gdbstub/test_gdbstub_host/rv_decode/include",
+                "D:/esp-idf/components/freertos/config/linux/include",
+                "D:/esp-idf/components/freertos/FreeRTOS-Kernel-SMP/portable/linux/include/freertos",
+                "D:/esp-idf/components/esp_common/include",
+                "D:/esp-idf/components/esp_hw_support/include",
+                "D:/esp-idf/components/soc/esp32/include",
+                "D:/esp-idf/components/riscv/include",
+                "D:/esp-idf/components/soc/esp32c2/include",
+                "D:/esp-idf/components/http_parser",
+                "D:/esp-idf/components/esp_event/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.22621.0",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x86",
+            "compilerPath": "C:/mingw64/bin/gcc.exe"
+        }
+    ],
+    "version": 4
+}

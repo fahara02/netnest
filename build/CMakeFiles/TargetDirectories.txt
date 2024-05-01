@@ -1,0 +1,4 @@
+D:/_0_DEV_SOFTWARE/mySANDBOX/netnest/build/CMakeFiles/esphttp.dir
+D:/_0_DEV_SOFTWARE/mySANDBOX/netnest/build/CMakeFiles/NETNEST.dir
+D:/_0_DEV_SOFTWARE/mySANDBOX/netnest/build/CMakeFiles/ALL_BUILD.dir
+D:/_0_DEV_SOFTWARE/mySANDBOX/netnest/build/CMakeFiles/ZERO_CHECK.dir
